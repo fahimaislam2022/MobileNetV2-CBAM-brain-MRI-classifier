@@ -464,10 +464,3 @@ print(f"Confidence: {probs.max():.4f}")
 ## Author
 **Fahima Islam** (@fahimaislam2022)
 
-## License
-No explicit license included. Please add MIT or Apache 2.0 for public distribution.
-
----
-
-## Contact & Contributions
-For issues, questions, or contributions, please open a GitHub issue or pull request.
